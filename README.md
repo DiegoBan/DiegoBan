@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm always learning new programming skills in different languages<br>🎯 Goals: Publish a paper and work on other little projects<br>🎲 Fun fact: I love music, videogames and</p>
+<p align="left">✨ Creating bugs since 2004<br>📚 I'm always learning new programming skills in different languages<br>🎯 Goals: Publish a paper and work on other little projects<br>🎲 Fun fact: I love music, videogames and </p>
 
 ###
 
