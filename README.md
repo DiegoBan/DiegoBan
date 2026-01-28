@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Diego Banda and I'm a Civil Engineering student specializing in Computer Science and Telecommunications (UDP), from Santiago, Chile🇨🇱, </p>
+<p align="left">My name is Diego Banda, I'm a Civil Engineering student specializing in Computer Science and Telecommunications (UDP), from Santiago, Chile🇨🇱, </p>
 
 ###
 
